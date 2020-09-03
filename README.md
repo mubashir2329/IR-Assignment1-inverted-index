@@ -4,6 +4,8 @@ This is solution for first assignment of Information Retrival course. The main t
 
 
 ## To Run The Project
+Download the corpus from google drive [link](https://drive.google.com/file/d/1RJLTZbU_IKKWUTNEJiF78oJV3BRk5Guk/view?usp=sharing).
+
 Run the file thorugh command line or pycharm (run configuration required) along with command line arguments
 To perform any task run the relevant file. The details of each task is following:
 
